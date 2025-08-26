@@ -25,7 +25,7 @@ It helps to analyze his batting performance, records, and overall career statist
    git clone https://github.com/your-username/virat-kohli-dashboard.git
 📷 Preview
 
-()
+(<img width="1303" height="728" alt="Image" src="https://github.com/user-attachments/assets/f31eac7c-4706-4357-aa25-3a3255a1470e" />)
 
 🛠️ Tools Used
 
